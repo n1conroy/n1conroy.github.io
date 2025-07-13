@@ -1,8 +1,4 @@
 
----
-layout: page
-title: About
----
 
 With a PhD and MLIS, I combine library science principles with 8+ years of data science and machine learning experience.
 
