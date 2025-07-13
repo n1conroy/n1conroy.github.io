@@ -1,8 +1,4 @@
 
----
-layout: default
-title: Home
----
 
 # Practical AI & Data Strategy for Libraries
 
